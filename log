@@ -1,0 +1,7 @@
+INFO: Application started
+ERROR: Failed to connect to the database
+INFO: Processing request ID 123
+ERROR: Timeout while waiting for response
+INFO: Shutdown complete
+ERROR: Device no 440 no response
+INFO: ERROR print server
